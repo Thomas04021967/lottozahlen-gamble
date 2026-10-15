@@ -1,0 +1,10 @@
+node_modules
+dist
+.git
+.env
+lotto.db
+lotto.db-*
+data
+Dockerfile
+docker-compose.yml
+.dockerignore
